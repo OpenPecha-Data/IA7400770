@@ -1,0 +1,19 @@
+id: a7b6023c6e174665976592a9b53dd2f8
+annotation_type: index
+revision: '00001'
+annotations:
+  1c2baa26167f4de68f6f1eb1360e4c55:
+    base: B250.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 6
+    - title: Preface
+      span:
+        start: 7
+        end: 1689
+    - title: Colophon
+      span:
+        start: 1690
+        end: 1710
